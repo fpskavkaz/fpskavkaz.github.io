@@ -13,7 +13,7 @@ line of this site, we wish you good health and family well-being. </p>
 <p> To download our games - shooters you will need
 program torrent. It is free for
 downloads and have many versions! You can follow the links: </p>
-<h3> Download fps shooter </ h3> <br>
+<h3> Download fps shooter </h3> <br>
 We offer you a free video game. You can download it for free and without prior conditions.
 Screenshots or images are available in the <a href="galery.php"> Video from Games </a> where you can see the virtual space of the game.
 In the <a href="galery.php"> Video from the Games </a> you can see the gameplay of our game.
