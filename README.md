@@ -6,6 +6,6 @@
 on the contemplation of this page. Our joy has no limits! We express a huge
 Thanks for visiting this site. In the global Internet
 so many resources that you are the most important visitor for us. For each read
-line of this site, we wish you good health and family well-being. </ p>
+line of this site, we wish you good health and family well-being. </p>
 
-<p> Try to discover the biggest secret! Where did you go? </ p>
+<p> Try to discover the biggest secret! Where did you go? </p>
