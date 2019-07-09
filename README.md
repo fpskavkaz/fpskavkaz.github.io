@@ -63,8 +63,8 @@ pull this simple shooter. Enjoy your shooting at robots and zombies. <br>
  <p>
 <h3>Download fps shooter</h3><br>
 Your attention is invited to besplanto video game is "Free fps shooter 06 2019 Portable game". You can download it for free and without preconditions.
-Screenshots or pictures are available in <a href="galery.php">Video from GAMES</a> where you can see the virtual space of the game.
-See <a href="galery.php">Video from GAMES</a> you can see the gameplay of our game.
+Screenshots or pictures are available in <a href="http://toygames.ru/galery.php">Video from GAMES</a> where you can see the virtual space of the game.
+See <a href="http://toygames.ru/video.php">Video from GAMES</a> you can see the gameplay of our game.
 <br>
 Distributive video game completely offline and you can play on the drive taking her to work. Most modern laptops
 pull this simple shooter. Enjoy your shooting at robots and zombies.<br>
@@ -90,3 +90,37 @@ Alternative download link from Yandex disk<br>
 </ol>
 
 <hr>
+<h2>Видео из FPS шутеров!</h2> 
+<hr>
+<h3>FPS Шутер от toyames.ru </h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/zSEiG5nU8R0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div> 
+<hr>
+<h3>Video FPS шутер от первого лица</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RVrJd0nULg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<h3>Download shooter TOYGAMES.ru free fps </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_ebKL4JJdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<h3>Download free FPS shooter right now</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mj2nqQe2oHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr><h3>FPS шутер пример прохождения toygames</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dB_Tvu2HJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<h3>Шутери на своем ноутбуке!</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFBJhxY_tH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<h3>Глюкоманад шутинг - тормозит но стреляет</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVDmSgtZkqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<h3>Шутери самые бесплатный гайплей Download shooter</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjGtAZh9jHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<h3>Download shooter free fps game</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdYW-Rp9MjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+
