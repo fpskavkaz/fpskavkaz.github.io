@@ -1,4 +1,4 @@
-## Welcome to free FPS games
+<h1>Welcome to free FPS games</h1>
 
  <h2> Hello, a casual visitor to this page! </ h2>
 
