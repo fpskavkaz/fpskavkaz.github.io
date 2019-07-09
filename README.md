@@ -1,6 +1,6 @@
 <h1>Welcome to free FPS games</h1>
 
- <h2> Hello, a casual visitor to this page! </ h2>
+  ## Hello, a casual visitor to this page! 
 
 <p> We are very grateful to you for every moment you spend.
 on the contemplation of this page. Our joy has no limits! We express a huge
