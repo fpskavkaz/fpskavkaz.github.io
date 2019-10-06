@@ -125,3 +125,14 @@ Alternative download link from Yandex disk<br>
 <h3>Download shooter free fps game</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdYW-Rp9MjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
+<!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t26.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число посетителей за'+
+' сегодня" '+
+'border="0" width="88" height="15"><\/a>')
+</script><!--/LiveInternet-->
